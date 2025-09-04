@@ -61,7 +61,7 @@ src/main/java/com/kaushik/api/bookstore/
    ```bash
    mvn spring-boot:run
    ```
-   
+
    Or use the provided batch file:
 
    ```bash
