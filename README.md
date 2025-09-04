@@ -1,4 +1,4 @@
-# Bookstore API
+# Book-Store-Auth
 
 A Spring Boot REST API application for managing a bookstore with JWT-based authentication.
 
@@ -46,8 +46,8 @@ src/main/java/com/kaushik/api/bookstore/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd bookstore
+   git clone https://github.com/KaushikMaslekar/Book-Store-auth.git
+   cd Book-Store-auth
    ```
 
 2. Build the project:
